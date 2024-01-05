@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Mejelle De Belen",
+      "email": "meje@gmail.com",
+      "contact": "09061128806",
+      "id": "43e59ba8-b258-4f14-bb6f-79ac0f6e42ca"
+    },
+    {
+      "name": "Mark Ponce",
+      "email": "mark123@gmail.com",
+      "contact": "09503598634",
+      "id": "eee2b768-a751-4926-898c-6ae8b12f1803"
+    },
+    {
+      "name": "Matty Healy",
+      "email": "matt@gmail.com",
+      "contact": "09061128802",
+      "id": "c470a019-1319-4a44-a2c4-36d9e7c1d13f"
+    }
+  ]
+}
